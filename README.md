@@ -1,7 +1,7 @@
 # moveBall
 Moving a projectile on the x- and y-axis with screen edge detection. Color and speed updated with CSS. 
 
-Installation: drag and drop the moveBall.html file into a blank browser to see the ball bounce around on the page
+Installation: view source code in the moveBall.html file. Download the moveBall Screen Recording to view the ball in motion. 
 
 Usage: Bouncing ball animation. Example of x- and y- axis screen edge detection. 
 
