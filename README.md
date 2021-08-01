@@ -1,5 +1,5 @@
 # moveBall
-Moving a projectile on the x- and y-axis with screen edge detection. Color and speed updated with CSS. 
+Moving a projectile on the x- and y-axis with screen edge detection. Color, direction and speed updated with CSS. 
 
 Installation: view source code in the moveBall.html file. Download the moveBall Screen Recording to view the ball in motion. 
 
